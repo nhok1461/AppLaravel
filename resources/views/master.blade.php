@@ -8,21 +8,21 @@
 Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
  <!-- Bootstrap Core CSS -->
-<link href="css/bootstrap.min.css" rel='stylesheet' type='text/css' />
+<link href="source/css/bootstrap.min.css" rel='stylesheet' type='text/css' />
 <!-- Custom CSS -->
-<link href="css/style.css" rel='stylesheet' type='text/css' />
+<link href="source/css/style.css" rel='stylesheet' type='text/css' />
 <!-- Graph CSS -->
-<link href="css/font-awesome.css" rel="stylesheet">
+<link href="source/css/font-awesome.css" rel="stylesheet">
 <!-- jQuery -->
 <!-- lined-icons -->
-<link rel="stylesheet" href="css/icon-font.min.css" type='text/css' />
+<link rel="stylesheet" href="source/css/icon-font.min.css" type='text/css' />
 <!-- //lined-icons -->
 <!-- chart -->
-<script src="js/Chart.js"></script>
+<script src="source/js/Chart.js"></script>
 <!-- //chart -->
 <!--animate-->
-<link href="css/animate.css" rel="stylesheet" type="text/css" media="all">
-<script src="js/wow.min.js"></script>
+<link href="source/css/animate.css" rel="stylesheet" type="text/css" media="all">
+<script src="source/js/wow.min.js"></script>
 	<script>
 		 new WOW().init();
 	</script>
@@ -31,7 +31,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <link href='//fonts.googleapis.com/css?family=Cabin:400,400italic,500,500italic,600,600italic,700,700italic' rel='stylesheet' type='text/css'>
 <!---//webfonts--->
  <!-- Meters graphs -->
-<script src="js/jquery-1.10.2.min.js"></script>
+<script src="source/js/jquery-1.10.2.min.js"></script>
 <!-- Placed js at the end of the document so the pages load faster -->
 
 </head>
@@ -156,8 +156,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 										</div>
 									</div>
 										<!-- search-scripts -->
-										<script src="js/classie.js"></script>
-										<script src="js/uisearch.js"></script>
+										<script src="source/js/classie.js"></script>
+										<script src="source/js/uisearch.js"></script>
 											<script>
 												new UISearch( document.getElementById( 'sb-search' ) );
 											</script>
@@ -432,8 +432,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</div>
 					<div class="sparkline">
 						<!--graph-->
-						<link rel="stylesheet" href="css/graph.css">
-						<script src="js/jquery.flot.min.js"></script>
+						<link rel="stylesheet" href="source/css/graph.css">
+						<script src="source/js/jquery.flot.min.js"></script>
 					<!--//graph-->
 							<script>
 								$(document).ready(function () {
@@ -685,16 +685,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		</div>
         <!--footer section start-->
 			<footer>
-			   <p>&copy 2015 Easy Admin Panel. All Rights Reserved | Design by <a href="https://w3layouts.com/" target="_blank">w3layouts.</a></p>
+			   <p>&copy 2019 My SMS Panel. All Rights Reserved | Design by <a href="https:fibo.vn" target="_blank">Fibo.vn</a></p>
 			</footer>
         <!--footer section end-->
 
       <!-- main content end-->
    </section>
 
-<script src="js/jquery.nicescroll.js"></script>
-<script src="js/scripts.js"></script>
+<script src="source/js/jquery.nicescroll.js"></script>
+<script src="source/js/scripts.js"></script>
 <!-- Bootstrap Core JavaScript -->
-   <script src="js/bootstrap.min.js"></script>
+   <script src="source/js/bootstrap.min.js"></script>
 </body>
 </html>
